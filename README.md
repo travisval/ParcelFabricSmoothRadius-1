@@ -37,7 +37,7 @@ Note: You will need to save edits in order to save the work done within the edit
 
 # Known Issues
 
-In rare cases, tracing a specific set of curves will result in a "Field Is Not Editable" error. We are investigating the problem, but currently, curves that return this error will need to be edited manually.  See the [issue](/../../issues/4) for more deatial.
+In rare cases, tracing a specific set of curves will result in a "Field Is Not Editable" error. We are investigating the problem, but currently, curves that return this error will need to be edited manually.  See the [issue](/../../issues/4) for more details.
 
 If you encounter any other issues with the Add-In, please send a note to Sarah: ssibbett@esri.ca. The Add-In is delivered as-is, but we will do our best to investigate problems that have been reported. 
 
