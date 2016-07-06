@@ -1,5 +1,5 @@
 # Parcel Fabric Smooth Radius Add-In
-To assist in parcel maintenance efforts to clean up coincident curves in a production parcel fabric, Esri Canada has developed the Smooth Radius Add-In. This Add-In streamlines the process of updating radius values for arcs, regenerating the parcels to correct the radials lines, and meaning the centre points so the curves stay coincident. 
+To assist in parcel maintenance efforts to clean up coincident curves in a production parcel fabric, Esri Canada has developed the Smooth Radius Add-In. This Add-In streamlines the process of updating radius values for arcs, regenerating the parcels to correct the radial lines, and meaning the centre points so the curves stay coincident. 
 
 #Instructions
 Once the Add-In has been compiled and installed, use the following steps to configure the Add-In for use in ArcMap:
